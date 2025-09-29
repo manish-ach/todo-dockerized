@@ -1,12 +1,7 @@
 # TODO WEBAPP
 
-using NodeJS(expressJs), sqlite, jwt token
+using NodeJS(expressJs), prismaORM, postgres, jwt token
 
 
 # run using
-npm run dev
-
-note: npm install for the first time
-
-I did it using node v22
-
+just search how to start containers defined in yaml files. Also may need to migrate the prisma generated file just in case(note: maybe)
